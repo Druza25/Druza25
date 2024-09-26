@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pattrick 
+- 👋 Hi, I’m Patrick 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Software Development
